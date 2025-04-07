@@ -6,4 +6,6 @@ Uses gait data from 10 subjects collected by use of two accelerometers and two g
 
 INSTALLATION INSTRUCTIONS:
 Ensure the script, module, and data are in your directory before running the code.
+Script: unit2_code
+Module: gait_metrics
 
